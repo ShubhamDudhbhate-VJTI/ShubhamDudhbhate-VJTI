@@ -56,8 +56,7 @@ My core focus is on **App/Web Development** and **Artificial Intelligence**. I e
 
 ## ⚖️ NyaySutra — Blockchain Evidence Management
 **Status:** 🚧 Active Development  
-**Role:** Full Stack & Smart Contract Developer  
-
+**Role:** Full Stack Developer 
 🔗 **Repo:**  
 https://github.com/ShubhamDudhbhate-VJTI/NayaSutra_Inheritance
 
