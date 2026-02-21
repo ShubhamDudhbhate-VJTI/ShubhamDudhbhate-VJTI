@@ -9,6 +9,9 @@
   <a href="mailto:shubhamdudhbhate2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/YOUR_INSTA_HANDLE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 <br>
@@ -35,10 +38,31 @@ My core focus is on **App/Web Development** and **Artificial Intelligence**. I e
 
 # 🛠️ Tech Stack
 
-<details>
-<summary><b>Click to expand my full technical arsenal ⚡</b></summary>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 <br>
+
+<details>
+<summary><b>Click to expand my full technical arsenal ⚡</b></summary>
 
 | Category | Technologies |
 |---|---|
@@ -58,8 +82,7 @@ My core focus is on **App/Web Development** and **Artificial Intelligence**. I e
 **Status:** 🚧 Active Development  
 **Role:** Full Stack Developer 
 
-🔗**Repo:** 
-https://github.com/ShubhamDudhbhate-VJTI/NayaSutra_Inheritance
+🔗**Repo:** https://github.com/ShubhamDudhbhate-VJTI/NayaSutra_Inheritance
 
 ### Problem
 Traditional court systems face delays and risk of evidence tampering.
@@ -81,8 +104,7 @@ A decentralized judicial management system using **Ethereum Smart Contracts** to
 **Status:** 🏆 SIH 2025 Team Yuvachetna  
 **Role:** AI/ML Engineer  
 
-🔗 **Repo:**  
-https://github.com/ShubhamDudhbhate-VJTI/Water_LEVEL_Prediction_SIH
+🔗 **Repo:** https://github.com/ShubhamDudhbhate-VJTI/Water_LEVEL_Prediction_SIH
 
 ### Problem
 Groundwater data is stored in complex scattered reports making analysis difficult.
@@ -99,7 +121,6 @@ AI-powered assistant using **RAG + LLM** to extract insights from hydro-geologic
 **Tech Stack:** Python • LangChain • Vector DB • Ollama • LLM
 
 ---
-
 
 # 📊 GitHub Activity
 
