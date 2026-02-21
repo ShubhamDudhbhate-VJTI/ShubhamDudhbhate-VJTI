@@ -2,14 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Hi+there!+👋+I'm+Shubham;VJTI+IT+Student;App+%2F+Web+Developer;ML+%26+AI+Enthusiast;Building+Smart+Solutions" />
 </div>
 
+---
+
+# 🌐 Socials
+
 <div align="center">
   <a href="https://www.linkedin.com/in/shubham-dudhbhate-77065a328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:shubhamdudhbhate2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTA_HANDLE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+---
 
 <br>
 <br>
