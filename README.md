@@ -82,7 +82,7 @@ A decentralized judicial management system using **Ethereum Smart Contracts** to
 **Role:** AI/ML Engineer  
 
 🔗 **Repo:**  
-https://github.com/ShubhamDudhbhate-VJTI/Water_LEVEL_Prediction
+https://github.com/ShubhamDudhbhate-VJTI/Water_LEVEL_Prediction_SIH
 
 ### Problem
 Groundwater data is stored in complex scattered reports making analysis difficult.
