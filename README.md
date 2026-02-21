@@ -21,15 +21,8 @@
 </div>
 
 ---
-
 <br>
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamDudhbhate-VJTI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDudhbhate-VJTI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</div>
-
 ---
 
 # 👨‍💻 About Me
