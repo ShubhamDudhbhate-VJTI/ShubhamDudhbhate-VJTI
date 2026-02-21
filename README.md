@@ -24,7 +24,7 @@
 
 I am a **Second Year Information Technology Student at VJTI, Mumbai**. My core focus is on **App/Web Development** and **Artificial Intelligence**.
 
-- 🔭 **Currently Working On:** Full-stack apps + ML/AI models for SIH 2025.
+- 🔭 **Currently Working On:** Full-stack apps + ML/AI models.
 - 👯 **Collaboration:** React / Node.js / AI projects.
 - 🤝 **Skills:** C++, Python (AI/ML).
 - 🌱 **Learning:** Deep Learning, Generative AI.
