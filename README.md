@@ -54,7 +54,7 @@ My expertise lies at the intersection of **Scalable Backend Architecture** and *
 
 ## 📦 CargoGuard — Customs X-ray Intelligence Platform
 **Role:** AI/ML & Backend Developer  
-🔗 **Repo:** [CargoGuard](https://github.com/AishVerse/CargoGuard)
+🔗 **Repo:** [CargoGuard](https://github.com/ShubhamDudhbhate-VJTI/Pixel.git)
 
 ### The Problem
 Manual customs screening is slow and prone to human error, leading to missed prohibited items or manifest discrepancies.
